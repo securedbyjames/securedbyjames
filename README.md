@@ -1,5 +1,5 @@
 <h1>James' Cybersecurity Journey</h1> 
-<p>My Github is created, now the work begins...</p>
+<p>Hey, my name is James and I'm excited to document and share my learning journey as I strive to break in to IT, cybersecurity, and eventually penetration testing.</p>
 
 <!-- <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a>
 -->
