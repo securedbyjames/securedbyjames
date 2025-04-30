@@ -1,9 +1,10 @@
 <h1>James' Cybersecurity Journey</h1> 
-<p>Here's what I'm currently doing.</p>
+<p>My Github is created, now the work begins...</p>
 
 <!-- <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a>
 -->
 
+<!--
 <h2>Labs and Projects</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
