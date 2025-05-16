@@ -12,7 +12,7 @@
 <h2>Certifications</h2>
 
 - <b>CompTIA</b>
-  - A+ (in progress)(https://github.com/securedbyjames/certifications)
+  - [A+](https://github.com/securedbyjames/certifications)
   - Security+ (to follow A+)
 <!--
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
