@@ -7,7 +7,7 @@
 <h2>Labs and Projects</h2>
 
 - <b>Tryhackme</b>
-  - [Coming Soon](link here)
+  - SOC Level 1 Learning Path in progress
     
 <h2>Certifications</h2>
 
