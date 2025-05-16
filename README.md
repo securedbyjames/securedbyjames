@@ -12,8 +12,8 @@
 <h2>Certifications</h2>
 
 - <b>CompTIA</b>
-  - [A+](https://github.com/securedbyjames/certifications)
-  - Security+ (to follow A+)
+  - Passed A+ Core 1
+  - Studying for A+ Core 2
 <!--
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
