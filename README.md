@@ -9,7 +9,7 @@
 - <b>Tryhackme</b>
   - SOC Level 1 Learning Path in progress
     
-- <a href="https://github.com/securedbyjames/Building-Home-Lab><b>Building Home Lab</b></a>
+- <a href="https://github.com/securedbyjames/Building-Home-Lab"><b>Building Home Lab</b></a>
     
 <h2>Certifications</h2>
 
