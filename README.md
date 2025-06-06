@@ -9,11 +9,13 @@
 - <b>Tryhackme</b>
   - SOC Level 1 Learning Path in progress
     
+- <b>Building Home Lab</b>
+    
 <h2>Certifications</h2>
 
 - <b>CompTIA</b>
-  - Passed A+ Core 1
-  - Studying for A+ Core 2
+  - A+
+  - Studying for Security+
 <!--
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
