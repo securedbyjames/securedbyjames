@@ -13,9 +13,9 @@
     
 <h2>Certifications</h2>
 
-- <b>CompTIA</b>
-  - A+
-  - Studying for Security+
+- <b>CompTIA A+</b>
+- <b>CompTIA Security+ (in progress)</b>
+
 <!--
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
