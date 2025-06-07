@@ -1,5 +1,5 @@
 <h1>James' IT/Cybersecurity Journey</h1> 
-<p>Hey, my name is James and I'm excited to document my journey through IT and cybersecurity.</p>
+<p>Hey, my name is James and I'm excited to document my journey through IT and cybersecurity. I've worked in a hybrid role as a IT Help Desk Technician while also helping with audio-visual set ups and troubleshooting, worked solely as an audio-visual technician, and various other tech roles such as a Frontend Web Developer. I have always been extremely interested in tech as a whole, and I now am ready to fully dive in to an IT career and particularly exploring cybersecurity. I'm currently in school to finish my BS in Cybersecurity in the summer of 2026 while also obtaining certifications!</p>
 
 <!-- <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a>
 -->
