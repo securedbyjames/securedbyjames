@@ -14,7 +14,7 @@
     - <a href="https://github.com/securedbyjames/Building-Home-Lab/blob/main/Sysmon-Splunk%20Setup.md">Setting up Sysmon and Splunk</a>
 
 - <a href="https://github.com/securedbyjames/Attacking-and-Defending"><b>Attacking and Defending</b></a>
-  - <a href="https://github.com/securedbyjames/Building-Home-Lab/blob/main/DVWA.md">DVWA Vulnerability Testing</a>
+  - <a href="https://github.com/securedbyjames/Attacking-and-Defending/blob/main/DVWA.md">DVWA Vulnerability Testing</a>
     
 <h2>Certifications</h2>
 
