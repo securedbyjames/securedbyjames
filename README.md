@@ -18,7 +18,7 @@
 
 <h2>Additional Notes</h2>
 
-- <b>Cybersecurity Guide</b>
+- <a href="https://docs.google.com/spreadsheets/d/1uHMTLp9OpQaw1wV2qHe39qIWnECLrsOXHHV8WUyWZeg/edit?usp=sharing"><b>Cybersecurity Guide</b></a>
 
 <!--
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
