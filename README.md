@@ -10,17 +10,20 @@
   - <a href="https://github.com/securedbyjames/SOC-THM/tree/main">SOC Level 1 Learning Path</a>
     
 - <a href="https://github.com/securedbyjames/Building-Home-Lab"><b>Building Home Lab</b></a>
+
+- <b>Attacking and Defending</b>
+  - <a href="https://github.com/securedbyjames/Building-Home-Lab/blob/main/DVWA.md">DVWA Vulnerability Testing</a>
     
 <h2>Certifications</h2>
 
-- <b>CompTIA A+</b>
-- <b>CompTIA Security+ (in progress)</b>
+- CompTIA A+
+- CompTIA Security+ (in progress)
 
 <h2>Additional Notes</h2>
 
-- <a href="https://docs.google.com/spreadsheets/d/1uHMTLp9OpQaw1wV2qHe39qIWnECLrsOXHHV8WUyWZeg/edit?usp=sharing"><b>My Cybersecurity Guide</b></a>
+- <a href="https://docs.google.com/spreadsheets/d/1uHMTLp9OpQaw1wV2qHe39qIWnECLrsOXHHV8WUyWZeg/edit?usp=sharing">My Cybersecurity Guide</a>
 
-<!--
+<!-- Notes from Josh that I can utilize later possibly
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
