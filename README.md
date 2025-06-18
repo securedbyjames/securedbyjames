@@ -11,7 +11,7 @@
     
 - <a href="https://github.com/securedbyjames/Building-Home-Lab"><b>Building Home Lab</b></a>
 
-- <b>Attacking and Defending</b>
+- <a href="https://github.com/securedbyjames/Attacking-and-Defending"><b>Attacking and Defending</b></a>
   - <a href="https://github.com/securedbyjames/Building-Home-Lab/blob/main/DVWA.md">DVWA Vulnerability Testing</a>
     
 <h2>Certifications</h2>
