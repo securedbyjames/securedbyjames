@@ -16,6 +16,10 @@
 - <b>CompTIA A+</b>
 - <b>CompTIA Security+ (in progress)</b>
 
+<h2>Additional Notes</h2>
+
+- <b>Cybersecurity Guide</b>
+
 <!--
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
