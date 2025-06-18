@@ -10,6 +10,8 @@
     - <a href="https://github.com/securedbyjames/TryHackMe/blob/main/SOC%20Level%201%20Learning%20Path.md">SOC Level 1 Learning Path</a>
     
 - <a href="https://github.com/securedbyjames/Building-Home-Lab"><b>Building Home Lab</b></a>
+    - <a href="https://github.com/securedbyjames/Building-Home-Lab/blob/main/Isolated%20Network.md">Creating Isolated Private Network</a>
+    - <a href="https://github.com/securedbyjames/Building-Home-Lab/blob/main/Sysmon-Splunk%20Setup.md">Setting up Sysmon and Splunk</a>
 
 - <a href="https://github.com/securedbyjames/Attacking-and-Defending"><b>Attacking and Defending</b></a>
   - <a href="https://github.com/securedbyjames/Building-Home-Lab/blob/main/DVWA.md">DVWA Vulnerability Testing</a>
