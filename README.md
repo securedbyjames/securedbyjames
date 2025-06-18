@@ -6,7 +6,7 @@
 
 <h2>Labs and Projects</h2>
 
-- <b>Tryhackme</b>
+- <b>TryHackMe</b>
   - <a href="https://github.com/securedbyjames/SOC-THM/tree/main">SOC Level 1 Learning Path</a>
     
 - <a href="https://github.com/securedbyjames/Building-Home-Lab"><b>Building Home Lab</b></a>
