@@ -19,7 +19,8 @@
 <h2>Certifications</h2>
 
 - CompTIA A+
-- CompTIA Security+ (in progress)
+- CompTIA Security+
+- CCNA (in progress)
 
 <h2>Additional Notes</h2>
 
