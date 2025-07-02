@@ -8,6 +8,7 @@
 
 - <b><a href="https://github.com/securedbyjames/TryHackMe">TryHackMe</b></a>
     - <a href="https://github.com/securedbyjames/TryHackMe/blob/main/SOC%20Level%201%20Learning%20Path.md">SOC Level 1 Learning Path</a>
+        - <a href="https://github.com/securedbyjames/TryHackMe/blob/main/Benign.md">Benign Splunk Lab</a>
     
 - <a href="https://github.com/securedbyjames/Building-Home-Lab"><b>Building Home Lab</b></a>
     - <a href="https://github.com/securedbyjames/Building-Home-Lab/blob/main/Isolated%20Network.md">Creating Isolated Private Network</a>
