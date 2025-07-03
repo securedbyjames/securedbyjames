@@ -19,8 +19,8 @@
     
 <h2>Certifications</h2>
 
-- CompTIA A+
-- CompTIA Security+
+- <a href="https://www.credly.com/badges/e44e1f55-c656-4545-bfde-fe975a30dbb3/public_url">CompTIA A+</a>
+- <a href="https://www.credly.com/badges/7680d55e-ae72-4e37-853d-1d59c49c0cee/public_url">CompTIA Security+</a>
 - CCNA (in progress)
 
 <h2>Additional Notes</h2>
