@@ -6,6 +6,8 @@
 
 <h2>Labs and Projects</h2>
 
+- <b><a href="https://github.com/securedbyjames/TryHackMe">Python Projects</b></a>
+
 - <b><a href="https://github.com/securedbyjames/TryHackMe">TryHackMe</b></a>
     - <a href="https://github.com/securedbyjames/TryHackMe/blob/main/SOC%20Level%201%20Learning%20Path.md">SOC Level 1 Learning Path</a>
         - <a href="https://github.com/securedbyjames/TryHackMe/blob/main/Benign.md">Benign Splunk Lab</a>
@@ -21,7 +23,6 @@
 
 - <a href="https://www.credly.com/badges/e44e1f55-c656-4545-bfde-fe975a30dbb3/public_url">CompTIA A+</a>
 - <a href="https://www.credly.com/badges/7680d55e-ae72-4e37-853d-1d59c49c0cee/public_url">CompTIA Security+</a>
-- CCNA (in progress)
 
 <h2>Additional Notes</h2>
 
