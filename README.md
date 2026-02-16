@@ -3,17 +3,15 @@
 
 <h2>Labs and Projects</h2>
 
-<b><a href="https://github.com/securedbyjames/Python-Projects">Python</b></a>
-- <a href="https://github.com/securedbyjames/Python-Projects/blob/main/password-generator.py">Password Generator</a>
-
-<b>Blue Team Practice (TryHackMe)</b>
-- <a href="https://github.com/securedbyjames/TryHackMe/blob/main/SOC%20Level%201%20Learning%20Path.md">SOC Level 1 Learning Path</a>
-    
-<a href="https://github.com/securedbyjames/Building-Home-Lab"><b>Building Home Lab</b></a>
-- <a href="https://github.com/securedbyjames/Building-Home-Lab/blob/main/Sysmon-Splunk%20Setup.md">Setting up Sysmon and Splunk</a>
-
-<b>Cisco Packet Tracer</b>
-- <a href="">CGESD WAN Lab</a>
+- <b><a href="https://github.com/securedbyjames/Python-Projects">Python</b></a>
+    - <a href="https://github.com/securedbyjames/Python-Projects/blob/main/password-generator.py">Password Generator</a>
+- <b>Blue Team Practice (TryHackMe)</b>
+    - <a href="https://github.com/securedbyjames/TryHackMe/blob/main/SOC%20Level%201%20Learning%20Path.md">SOC Level 1 Learning Path</a>
+- <b>Home Lab</b>
+    - <a href="https://github.com/securedbyjames/Building-Home-Lab">Overview</a>
+    - <a href="https://github.com/securedbyjames/Building-Home-Lab/blob/main/Sysmon-Splunk%20Setup.md">Setting up Sysmon and Splunk</a>
+- <b>Cisco Packet Tracer</b>
+    - <a href="">CGESD WAN Lab</a>
 
     
 <h2>Certifications</h2>
