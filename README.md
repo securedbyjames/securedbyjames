@@ -6,7 +6,7 @@
 <b><a href="https://github.com/securedbyjames/Python-Projects">Python</b></a>
 - <a href="https://github.com/securedbyjames/Python-Projects/blob/main/password-generator.py">Password Generator</a>
 
-<b>Blue Team Practice (TryHackMe)</b></a>
+<b>Blue Team Practice (TryHackMe)</b>
 - <a href="https://github.com/securedbyjames/TryHackMe/blob/main/SOC%20Level%201%20Learning%20Path.md">SOC Level 1 Learning Path</a>
     
 <a href="https://github.com/securedbyjames/Building-Home-Lab"><b>Building Home Lab</b></a>
