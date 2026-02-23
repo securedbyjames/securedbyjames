@@ -9,6 +9,7 @@
     - <a href="https://github.com/securedbyjames/TryHackMe/blob/main/SOC%20Level%201%20Learning%20Path.md">SOC Level 1 Learning Path</a>
 - <b>Home Labs</b>
     - <a href="https://github.com/securedbyjames/Building-Home-Lab">Virutal Home Lab</a>
+    - <a href="">Projects</a>
 - <b>Cisco Packet Tracer</b>
     - <a href="">CGESD WAN Lab</a>
 
