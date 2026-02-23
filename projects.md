@@ -1,3 +1,3 @@
 <h1>Virtual Home Lab Projects</h1>
 
-<h2>Project 1: VLAN Segmentation & Lateral Movement Prevention</h2>
+<h3><a href="https://github.com/securedbyjames/securedbyjames/blob/main/VLAN%20Segmentation.md">Project 1: VLAN Segmentation & Lateral Movement Prevention</a></h3>
