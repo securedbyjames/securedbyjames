@@ -9,7 +9,6 @@
 
 <h3>Attack</h3>
 
-- Ping Windows 11
 - Scan with nmap
 
 <h3>Defense</h3>
