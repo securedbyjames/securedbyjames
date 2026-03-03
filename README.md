@@ -10,6 +10,8 @@
 - <b>Virtual Labs (Attack and Defense Practice)</b>
     - <a href="https://github.com/securedbyjames/Building-Home-Lab">Virutal Home Lab</a>
         - <a href="https://github.com/securedbyjames/Building-Home-Lab/tree/main/Projects">Projects</a>
+- <b>Network & Security Projects</b>
+
 
     
 <h2>Certifications</h2>
