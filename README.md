@@ -5,6 +5,7 @@
 
 - <b><a href="https://github.com/securedbyjames/Python-Projects">Python Projects</b></a>
     - <a href="https://github.com/securedbyjames/Python-Projects/blob/main/password-generator.py">Password Generator</a>
+    - <a href="https://github.com/securedbyjames/DUO-MFA-Device-Cleanup">DUO MFA Device Cleanup (Automation)</a>
 - <b>Blue Team Practice (TryHackMe)</b>
     - <a href="https://github.com/securedbyjames/TryHackMe/blob/main/SOC%20Level%201%20Learning%20Path.md">SOC Level 1 Learning Path</a>
 - <b>Virtual Labs (Attack and Defense Practice)</b>
