@@ -1,11 +1,15 @@
 <h1>James' IT/Cybersecurity Journey</h1> 
 <p>Hey, I’m James. I’m documenting my journey as I build hands-on skills in networking, cybersecurity, and cloud architecture. My primary focus is security engineering, with an emphasis on designing, breaking, and securing modern infrastructure.</p>
 
+<h2>Production Automation</h2>
+
+- <b>Python</b>
+    - <a href="https://github.com/securedbyjames/DUO-MFA-Device-Cleanup">DUO MFA Device Cleanup</a>
+
 <h2>Labs and Projects</h2>
 
-- <b><a href="https://github.com/securedbyjames/Python-Projects">Python Projects</b></a>
+- <b>Python</b>
     - <a href="https://github.com/securedbyjames/Python-Projects/blob/main/password-generator.py">Password Generator</a>
-    - <a href="https://github.com/securedbyjames/DUO-MFA-Device-Cleanup">DUO MFA Device Cleanup (Automation)</a>
 - <b>Blue Team Practice (TryHackMe)</b>
     - <a href="https://github.com/securedbyjames/TryHackMe/blob/main/SOC%20Level%201%20Learning%20Path.md">SOC Level 1 Learning Path</a>
 - <b>Virtual Labs (Attack and Defense Practice)</b>
