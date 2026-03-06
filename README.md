@@ -12,9 +12,11 @@
     - <a href="https://github.com/securedbyjames/Python-Projects/blob/main/password-generator.py">Password Generator</a>
 - <b>Blue Team Practice (TryHackMe)</b>
     - <a href="https://github.com/securedbyjames/TryHackMe/blob/main/SOC%20Level%201%20Learning%20Path.md">SOC Level 1 Learning Path</a>
-- <b>Virtual Labs (Attack and Defense Practice)</b>
+- <b>Networking & Systems Administration Lab</b>
     - <a href="https://github.com/securedbyjames/Building-Home-Lab">Virutal Home Lab (Windows)</a>
         - <a href="https://github.com/securedbyjames/Building-Home-Lab/tree/main/Projects">Projects</a>
+- <b>Security Operations Center Lab</b>
+    - Virtual Home Lab (Mac)
 - <b>Network & Security Projects</b>
     - <a href="https://github.com/securedbyjames/Corporate-WAN-Design/tree/main">Corporate WAN Design</a>
 
