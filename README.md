@@ -16,6 +16,7 @@
     - <a href="https://github.com/securedbyjames/Building-Home-Lab">Virutal Home Lab</a>
         - <a href="https://github.com/securedbyjames/Building-Home-Lab/tree/main/Projects">Projects</a>
 - <b>Network & Security Projects</b>
+    - <a href="https://github.com/securedbyjames/Corporate-WAN-Design/tree/main">Corporate WAN Design</a>
 
 
     
