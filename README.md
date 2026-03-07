@@ -1,5 +1,5 @@
 <h1>James' Project Portfolio</h1> 
-<p>Hey, I’m James. I’m documenting my journey as I build hands-on skills in networking, cybersecurity, and cloud architecture. My primary focus is security engineering, with an emphasis on designing, breaking, and securing modern infrastructure.</p>
+<!-- <p>Hey, I’m James. I’m documenting my journey as I build hands-on skills in networking, cybersecurity, and cloud architecture. My primary focus is security engineering, with an emphasis on designing, breaking, and securing modern infrastructure.</p> -->
 
 <h2>Production Automation</h2>
 
