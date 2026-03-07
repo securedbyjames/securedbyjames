@@ -13,7 +13,7 @@
 - <b>Networking & Systems Administration Lab</b>
     - <a href="https://github.com/securedbyjames/Building-Home-Lab">Virutal Home Lab (Windows)</a>
 - <b>Security Operations Center Lab</b>
-    - Virtual SOC Lab (Mac)
+    - <a href="https://github.com/securedbyjames/Virtual-SOC-Lab/tree/main">Virtual SOC Lab (Mac)</a>
 - <b>Network & Security Practice</b>
     - <a href="https://github.com/securedbyjames/Corporate-WAN-Design/tree/main">Corporate WAN Design</a>
     - <a href="https://github.com/securedbyjames/TryHackMe/blob/main/README.md">Blue Team Practice (TryHackMe)</a>
