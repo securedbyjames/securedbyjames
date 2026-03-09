@@ -14,9 +14,10 @@
     - <a href="https://github.com/securedbyjames/Building-Home-Lab">Virutal Home Lab (Windows)</a>
 - <b>Security Operations Center Lab</b>
     - <a href="https://github.com/securedbyjames/Virtual-SOC-Lab/tree/main">Virtual SOC Lab (Mac)</a>
-- <b>Network & Security Practice</b>
+- <b>Networking Projects</b>
     - <a href="https://github.com/securedbyjames/Corporate-WAN-Design/tree/main">Corporate WAN Design</a>
-    - <a href="https://github.com/securedbyjames/TryHackMe/blob/main/README.md">Blue Team Practice (TryHackMe)</a>
+- <b>SOC Analyst Skills Development</b>
+    - <a href="https://github.com/securedbyjames/Blue-Team-Practice/tree/main">Blue Team Practice</a>
 
 
     
