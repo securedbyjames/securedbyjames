@@ -32,7 +32,7 @@
 Champlain College | expected August 2026
 
 <b>Bachelor of Fine Arts in Perfoming Arts Technology</b><br>
-University of Michigan - Ann Arbor | 2016
+University of Michigan - Ann Arbor
 
 <!--
 <h2>Additional Notes</h2>
