@@ -29,7 +29,7 @@
 <h2>Education</h2>
 
 <b>Bachelor of Science in Cybersecurity</b><br>
-Champlain College | 2026
+Champlain College | expected August 2026
 
 <b>Bachelor of Fine Arts in Perfoming Arts Technology</b><br>
 University of Michigan - Ann Arbor | 2016
