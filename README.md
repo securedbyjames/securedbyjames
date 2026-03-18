@@ -1,25 +1,58 @@
 <h1>James' Project Portfolio</h1> 
-<!-- <p>Hey, I’m James. I’m documenting my journey as I build hands-on skills in networking, cybersecurity, and cloud architecture. My primary focus is security engineering, with an emphasis on designing, breaking, and securing modern infrastructure.</p> -->
+Hey, I’m James. I’m documenting my journey as I build hands-on skills in networking, cybersecurity, and cloud architecture. My primary focus is security engineering, with an emphasis on designing, breaking, and securing modern infrastructure.</p>
 
 <h2>Real-World Production Projects</h2>
 
-- <b>Python</b>
-    - <a href="https://github.com/securedbyjames/DUO-MFA-Device-Cleanup">DUO MFA Device Cleanup</a>
+<h3>Python Automation</h3>
+
+A collection of real-world Python automation scripts designed to streamline operational tasks, improve efficiency, and reduce manual workload.
+
+📁 <a href="https://github.com/securedbyjames/DUO-MFA-Device-Cleanup">DUO MFA Device Cleanup</a>
 
 <h2>Labs and Projects</h2>
 
-- <b>Python</b>
-    - <a href="https://github.com/securedbyjames/Python-Projects/blob/main/password-generator.py">Password Generator</a>
-- <b>Networking, Systems & Security Administration Lab</b>
-    - <a href="https://github.com/securedbyjames/Building-Home-Lab">Virutal Home Lab (Windows)</a>
-- <b>Security Operations Center Lab</b>
-    - <a href="https://github.com/securedbyjames/Virtual-SOC-Lab/tree/main">Virtual SOC Lab (Mac)</a>
-- <b>Networking Projects</b>
-    - <a href="https://github.com/securedbyjames/Corporate-WAN-Design/tree/main">Corporate WAN Design</a>
-- <b>SOC Analyst Skills Development</b>
-    - <a href="https://github.com/securedbyjames/Blue-Team-Practice/tree/main">Blue Team Practice</a>
+<!-- b>Python</b></h3>
 
+Information about Python
 
+<!-- <a href="https://github.com/securedbyjames/Python-Projects/blob/main/password-generator.py">Overview</a><br>
+<a href="https://github.com/securedbyjames/Python-Projects/blob/main/password-generator.py">Password Generator</a>
+-->
+
+<h3>Networking, Systems & Security Administration Lab</h3>
+
+A hands-on Windows-based lab focused on building and managing core networking and system administration skills while applying security best practices. This environment includes Active Directory concepts, network configuration, firewall management, and system hardening, with an emphasis on understanding how systems operate, communicate, and are secured in real-world enterprise environments.
+
+🔍 <a href="https://github.com/securedbyjames/Building-Home-Lab">Overview</a><br>
+
+**Enterprise:**<br>
+📁 <a href="https://github.com/securedbyjames/Building-Home-Lab/blob/main/Enterprise%20Projects/P1%3A%20Active%20Directory%20Enterprise%20Deployment.md">Project 1: Active Directory Deployment</a><br>
+
+**Security:**<br>
+📁 <a href="https://github.com/securedbyjames/Building-Home-Lab/blob/main/Security%20Projects/P1%3A%20VLAN%20Segmentation.md">Project 1: VLAN Segmentation</a><br>
+📁 <a href="https://github.com/securedbyjames/Building-Home-Lab/blob/main/Security%20Projects/P2%3A%20Controlled%20Breach.md">Project 2: Controlled Breach</a><br>
+📁 <a href="https://github.com/securedbyjames/Building-Home-Lab/blob/main/Security%20Projects/P3%3A%20Firewall%20Policy%20(pfSense).md">Project 3: Firewall Policy (pfSense)</a><br>
+
+#
+
+<h3>Security Operations Center Lab</h3>
+
+A Security Operations Center (SOC) lab built using macOS, Azure, and Microsoft Sentinel to simulate real-world attack and detection scenarios. This lab focuses on log ingestion, alert generation, incident investigation, and threat detection using tools like Microsoft Defender and KQL queries, providing practical experience in monitoring and responding to security events.
+
+🔍 <a href="https://github.com/securedbyjames/Virtual-SOC-Lab/tree/main">Overview</a><br>
+📁 <a href="https://github.com/securedbyjames/Virtual-SOC-Lab/blob/main/Projects/P1%3A%20Azure-Sentinel-SOC-Setup.md">Project 1: Azure/Sentinel SOC Setup</a><br>
+📁 <a href="https://github.com/securedbyjames/Virtual-SOC-Lab/blob/main/Projects/P2%3A%20Deploy%20Symon.md">Project 2: Sysmon Deployment</a><br>
+📁 <a href="https://github.com/securedbyjames/Virtual-SOC-Lab/blob/main/Projects/P3%3A%20Brute%20Force%20Attack%20%26%20Detection.md">Project 3: Brute Force Attack & Defend</a><br>
+
+#
+
+<h3>SOC Analyst Skills Development</h3>
+
+A collection of hands-on labs and challenges from platforms like TryHackMe, Hack The Box, and CyberDefenders focused on developing real-world SOC analyst skills. This includes threat detection, log analysis, incident response, malware investigation, and attacker techniques mapped to frameworks like MITRE ATT&CK.
+
+🔍 <a href="https://github.com/securedbyjames/Blue-Team-Practice/tree/main">Blue Team Practice</a>
+
+#
     
 <h2>Certifications</h2>
 <a href="https://www.credly.com/badges/db2aafcf-c2d7-4a7f-afa8-b6998c894621/public_url">Cisco Certified Network Associate (CCNA)</a><br>
