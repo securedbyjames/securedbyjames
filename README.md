@@ -10,7 +10,7 @@
 
 - <b>Python</b>
     - <a href="https://github.com/securedbyjames/Python-Projects/blob/main/password-generator.py">Password Generator</a>
-- <b>Networking, Systems, Security Administration Lab</b>
+- <b>Networking, Systems & Security Administration Lab</b>
     - <a href="https://github.com/securedbyjames/Building-Home-Lab">Virutal Home Lab (Windows)</a>
 - <b>Security Operations Center Lab</b>
     - <a href="https://github.com/securedbyjames/Virtual-SOC-Lab/tree/main">Virtual SOC Lab (Mac)</a>
