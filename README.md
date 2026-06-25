@@ -13,7 +13,7 @@ A collection of real-world Python automation scripts designed to streamline oper
 
 <h3>Cloud Infrasturcture</h3>
 
-Hands-on home lab infrastructure including Ubiquiti networking, edge computing, and cloud architecture.
+Hands-on home lab including Ubiquiti networking, edge computing, and cloud architecture.
 
 **Enterprise:**<br>
 📁 <a href="https://github.com/securedbyjames/Enterprise-Video-Analytics">Video Analytics Project</a>
